@@ -76,6 +76,7 @@
 		"eslint-visitor-keys": "^4.1.0",
 		"svelte-eslint-parser": "^0.43.0"
 	},
-	"author": "",
-	"license": "MIT"
+	"license": "MIT",
+	"repository": "git@github.com:iyyafi/svelte-package.git",
+	"author": "Iyyafi Qolbi <iyyafi@gmail.com>"
 }
